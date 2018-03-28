@@ -1,0 +1,6 @@
+Rishab Khandelwal
+email: rishab@ccs.neu.edu
+
+make build : do make build for building the code.
+make check : do make check for running the files.
+make clean : do make clean for cleaning the files.
